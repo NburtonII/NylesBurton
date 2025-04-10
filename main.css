@@ -1,0 +1,42 @@
+body{
+    background-color: white;
+    color: #1f1f1f;
+    font-family: 'Proxima Nova', Montserrat;
+}
+
+p{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.highlight{
+    background-color:yellow;
+}
+
+header, .heading, footer{
+background-color:#1f1f1f;
+color:white;
+padding-left:15px
+}
+
+.nametag{
+    text-align:center;
+}
+
+.headshot{
+    border:3px #1f1f1f solid;
+    border-radius: 30%;
+    
+}
+
+nav a{
+    color:white;
+    text-decoration: none;
+    margin: 25px;
+
+}
+nav{
+    text-align:center;
+}
+
+.Description{
+    margin-top:1px;
+}
